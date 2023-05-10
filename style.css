@@ -22,3 +22,9 @@ body {
   background: var(--secondary-color);
   padding: 4rem 0;
 }
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+  max-width: var(--max-width);
+}
