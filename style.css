@@ -49,3 +49,11 @@ h1 {
 }
 
 /* Boxes */
+#timeline ul li div {
+  position: relative;
+  bottom: 0;
+  width: 400px;
+  background: var(--secondary-color);
+  padding: 1rem;
+  transition: all 0.5s ease-in-out;
+}
