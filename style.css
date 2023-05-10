@@ -32,3 +32,8 @@ body {
 h1 {
   font-size: 2.3rem;
 }
+
+#timeline ul {
+  background: var(--primmary-color);
+  padding: 50px 0;
+}
