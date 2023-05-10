@@ -85,7 +85,7 @@ h1 {
 #timeline div:before {
   content: '';
   position: absolute;
-  bottom: 13px;
+  bottom: 5px;
   width: 0;
   height: 0;
   border-style: solid;
